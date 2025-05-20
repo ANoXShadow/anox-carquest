@@ -1,0 +1,72 @@
+{
+  "carquest": {
+    "delivery": {
+      "point_blip": "Car Delivery Point",
+      "npc_blip": "Car Quest Agent",
+      "correct_vehicle": "Press [E] to deliver %s",
+      "correct_vehicle_additional": "🆕 Press [E] to deliver %s (Additional car)",
+      "wrong_vehicle": "Wrong vehicle model",
+      "progress_label": "Delivering vehicle...",
+      "delivered": "Vehicle delivered successfully!",
+      "additional_delivered": "Additional car delivered successfully!",
+      "not_in_vehicle": "You need to be in a vehicle!",
+      "already_delivered": "You have already delivered this car!",
+      "all_delivered": "All vehicles delivered! Return to the Agent to collect your reward."
+    },
+    "reward": {
+      "collected": "You've collected your reward of $%s! The next list is now available.",
+      "additional": "You've collected an additional reward of $%s for delivering new cars!",
+      "button": "💰 COLLECT REWARD 💰",
+      "description": "Collect $%s for completing this list",
+      "confirmation_header": "Collect Reward",
+      "confirmation_content": "Are you sure you want to collect your reward of $%s for completing %s?",
+      "confirmation_confirm": "Collect Reward",
+      "confirmation_cancel": "Cancel"
+    },
+    "list": {
+      "completed": "✅ List Completed - Reward: $%s (Collected)",
+      "new_cars": "🆕 New cars added! - Reward: $%s (Additional)",
+      "ready_reward": "✅ Ready for reward! - Reward: $%s",
+      "in_progress": "❌ In progress (%d/%d cars) - Reward: $%s",
+      "status_completed": "List Completed",
+      "status_new_cars": "New cars added!",
+      "status_ready": "Ready for reward",
+      "status_progress": "In progress",
+      "progress_label": "Progress",
+      "progress_value": "%d/%d cars",
+      "reward_label": "Reward",
+      "reward_value": "$%s %s",
+      "reward_collected": "(Collected)",
+      "reward_additional": "(Additional)",
+      "car_delivered": "✅ Delivered",
+      "car_new": "🆕 New car added!",
+      "car_not_delivered": "❌ Not delivered",
+      "car_model": "Model"
+    },
+    "npc": {
+      "interaction": "Show Car Quest List"
+    },
+    "errors": {
+      "no_access": "You don't have access to this list!",
+      "wrong_vehicle": "This is not the required vehicle!",
+      "please_wait_deliver": "Please wait before delivering another vehicle",
+      "please_wait_reward": "Please wait before collecting a reward again",
+      "please_wait_menu": "Please wait before opening the menu again",
+      "list_not_found": "List not found in config!",
+      "all_cars_required": "You must deliver all vehicles first!",
+      "not_completed": "You have not completed this list yet!",
+      "already_collected": "You have already collected this reward!",
+      "token_error": "Please try again in a moment"
+    },
+    "admin": {
+      "reset_command_usage": "Usage: /carquest_reset [player_id]",
+      "player_not_found": "Player ID %s not found",
+      "reset_success": "Reset car quest progress for player %s",
+      "reset_notification": "Your Car Quest progress has been reset by an administrator!",
+      "no_permission": "You don't have permission to use this command!"
+    },
+    "menu": {
+      "main_title": "Car Quest"
+    }
+  }
+}
