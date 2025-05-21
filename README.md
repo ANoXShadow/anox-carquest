@@ -8,7 +8,7 @@
 > **anox-carquest** is a premium vehicle quest system where players hunt for specific cars, deliver them to earn rewards, and unlock progressively challenging lists. Perfect for servers seeking an engaging progression-based car collection mechanic.
 
 - [Preview](https://www.youtube.com/watch?v=vPv01PdK4dE)
-- [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-drugs)
+- [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/side-hustles/anox-carquest)
 - [Discord](https://discord.gg/gbJ5SyBJBv)
 
 ---
